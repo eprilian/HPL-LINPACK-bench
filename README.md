@@ -27,7 +27,7 @@ Extract the archive:
 
 ```bash
 tar -xzvf hpl-2.3.tar.gz
-mv hpl-2.3
+mv hpl-2.3 hpl
 ```
 
 ---
